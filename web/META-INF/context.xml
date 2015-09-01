@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<Context antiJARLocking="true" path="/DiaxeirishDiktywn">
+    <!--<Resource name="jdbc/diaxirisi_db" auth="Container" driverClassName="com.mysql.jdbc.Driver" 
+			maxActive="150" maxIdle="300" maxWait="10000" username="diaxirisi" password="cs782278CS" 
+			type="javax.sql.DataSource" url="jdbc:mysql://83.212.117.9:3306/diaxirisi_db" 
+           />-->
+</Context>
